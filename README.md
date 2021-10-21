@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @okandvn
 - 👀 I’m interested in computers
 - 🌱 I’m currently learning computers
-- 💞️ I’m looking to collaborate on quantum computers, conditional logic, AI, Machine Learning, Algorithms, Data Structures, Data Collection for goverment purpuses, sex
+- 💞️ I’m looking to collaborate on quantum computers, conditional logic, AI, Machine Learning, Algorithms, Data Structures, Data Collection for goverment purpuses
 - 📫 How to reach me carrier pigeon
 
 <!---
